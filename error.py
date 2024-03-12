@@ -1,3 +1,4 @@
+#https://chat.openai.com/share/fe2b803b-d26f-4339-aa5b-46bd0bd09ef6
 import json, csv, re 
 with open('regex\\u5l03-1-cw-error-logs-via-regex-kyuril\\logs.json') as file: 
     data = json.load(file)
